@@ -1,6 +1,6 @@
 
 
-<img src="https://weather-icon.journeyad.repl.co/@tianjin?v=1" align="left"><img align="right" src="https://count.getloli.com/get/@:xphn95?theme=rule34">
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 Hello everyone! I am a programmer who is still growing and loves front-end development. I will upload my code and notes here in the future, welcome to follow! 
 
